@@ -19,6 +19,9 @@ This repository contains materials and solutions related to the workshop series.
 4. Push your changes to your forked repository
 5. Create a pull request to merge your changes into this repository
 
+## Competition Link
+[ENIGMA' 24 Week 01 HackerRank Competition](https://www.hackerrank.com/enigma-24-week-01)
+
 ## Contact
 If you have any questions or need further assistance, feel free to reach out:
 
